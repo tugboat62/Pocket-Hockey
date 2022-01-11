@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1563612932 source:c:\users\user\desktop\igraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<stdio.h>
+
+1563087260 c:\users\user\desktop\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567938449 source:d:\igraphics assignments and project\igraphics assignments and project\igraphics\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+	<ctime>
+	<math.h>
+	<cstdlib>
+
+1563087260 d:\igraphics assignments and project\igraphics assignments and project\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 d:\igraphics assignments and project\igraphics assignments and project\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 d:\igraphics assignments and project\igraphics assignments and project\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 d:\igraphics assignments and project\igraphics assignments and project\igraphics\opengl\include\gl.h
+
+1568284635 source:d:\igraphics projects\igraphics assignments and project\igraphics\balldemo.cpp
+	"iGraphics.h"
+	<ctime>
+	<math.h>
+	<cstdlib>
+
+1563087260 d:\igraphics projects\igraphics assignments and project\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 d:\igraphics projects\igraphics assignments and project\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 d:\igraphics projects\igraphics assignments and project\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568533728 source:d:\igraphics projects\igraphics assignments and project\term project\balldemo.cpp
+	"iGraphics.h"
+	<ctime>
+	<math.h>
+	<cstdlib>
+
+1563087260 d:\igraphics projects\igraphics assignments and project\term project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 d:\igraphics projects\igraphics assignments and project\term project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 d:\igraphics projects\igraphics assignments and project\term project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
